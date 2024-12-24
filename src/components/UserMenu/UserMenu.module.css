@@ -1,0 +1,8 @@
+.UserName {
+  margin: 0;
+}
+
+.UserMenu {
+  display: flex;
+  gap: 5px;
+}
